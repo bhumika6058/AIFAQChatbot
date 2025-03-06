@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+PyMySQL
+Django==3.2.10
+nltk
+sklearn==0.0
+SpeechRecognition
+
+ # python 3.10.0
